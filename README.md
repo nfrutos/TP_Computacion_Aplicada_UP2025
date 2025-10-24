@@ -124,7 +124,7 @@ Ubicados en el directorio:
 | `www_dir.tar.gz` | Archivos del sitio web (index.php y logo.png) |
 
 ---
-##8. Diagrama topológico
+## 8. Diagrama topológico
 
 #A continuación se presenta el diagrama topológico de la infraestructura implementada, que muestra la relación entre el host físico, la red interna de VirtualBox, el servidor Debian y los servicios configurados.
 
